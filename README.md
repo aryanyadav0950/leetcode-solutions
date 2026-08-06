@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
