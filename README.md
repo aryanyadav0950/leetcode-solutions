@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0877-stone-game) |
@@ -117,4 +118,12 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
