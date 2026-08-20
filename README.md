@@ -24,6 +24,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -178,6 +179,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
