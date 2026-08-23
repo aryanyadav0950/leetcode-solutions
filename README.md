@@ -56,6 +56,7 @@
 | [0011-container-with-most-water](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0861-score-after-flipping-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -69,6 +70,7 @@
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -77,6 +79,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -98,6 +101,7 @@
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
