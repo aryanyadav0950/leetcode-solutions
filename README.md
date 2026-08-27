@@ -130,10 +130,12 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -229,4 +231,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
