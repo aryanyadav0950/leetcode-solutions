@@ -27,6 +27,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -83,6 +84,7 @@
 | [1406-stone-game-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -179,6 +181,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2614-prime-in-diagonal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
