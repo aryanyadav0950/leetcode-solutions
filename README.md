@@ -78,6 +78,7 @@
 | [0009-palindrome-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0168-excel-sheet-column-title](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
@@ -95,6 +96,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
