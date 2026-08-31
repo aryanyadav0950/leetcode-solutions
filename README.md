@@ -244,6 +244,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -260,6 +261,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0191-number-of-1-bits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
