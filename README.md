@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0724-find-pivot-index](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0877-stone-game) |
@@ -212,6 +213,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Matrix
 | Problem Name | Difficulty |
