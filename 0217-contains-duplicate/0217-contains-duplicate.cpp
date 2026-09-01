@@ -5,9 +5,9 @@ public:
         for(int x:nums){
             mp[x]++;
         }
-        for(auto x : mp){
-            cout<<x.first<<" "<<x.second<<endl;
-        }
+        // for(auto x : mp){
+        //     cout<<x.first<<" "<<x.second<<endl;
+        // }
         for(int x : nums){
             if(mp[x] >= 2){
                 return true;
