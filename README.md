@@ -92,6 +92,7 @@
 | [0009-palindrome-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
@@ -274,6 +275,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0069-sqrtx](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0441-arranging-coins](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -319,4 +321,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
