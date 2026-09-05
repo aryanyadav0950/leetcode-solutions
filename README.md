@@ -30,6 +30,7 @@
 | [0877-stone-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -59,6 +60,7 @@
 | [0205-isomorphic-strings](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
