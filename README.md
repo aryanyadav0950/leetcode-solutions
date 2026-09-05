@@ -38,6 +38,7 @@
 | [1672-richest-customer-wealth](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -59,6 +60,7 @@
 | [0242-valid-anagram](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -107,6 +109,7 @@
 | [1406-stone-game-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -313,6 +316,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
