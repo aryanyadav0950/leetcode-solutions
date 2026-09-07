@@ -29,6 +29,7 @@
 | [0867-transpose-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -306,6 +307,7 @@
 | [0441-arranging-coins](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
