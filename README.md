@@ -114,6 +114,7 @@
 | [0069-sqrtx](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0441-arranging-coins](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -242,6 +243,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -278,6 +280,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
