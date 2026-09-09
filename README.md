@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -239,6 +240,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -310,6 +312,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
