@@ -141,6 +141,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0038-count-and-say](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
