@@ -157,6 +157,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +301,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
