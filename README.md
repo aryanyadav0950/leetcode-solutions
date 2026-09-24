@@ -20,6 +20,7 @@
 | [0136-single-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -283,6 +284,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
