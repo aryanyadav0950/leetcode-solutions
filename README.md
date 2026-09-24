@@ -160,6 +160,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -289,6 +290,7 @@
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2483-minimum-penalty-for-a-shop](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
