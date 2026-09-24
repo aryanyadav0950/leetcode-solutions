@@ -39,6 +39,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -173,6 +174,7 @@
 | [0877-stone-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -319,6 +321,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
