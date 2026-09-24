@@ -39,6 +39,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -284,6 +285,7 @@
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
