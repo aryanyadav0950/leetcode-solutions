@@ -34,6 +34,7 @@
 | [0877-stone-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1122-relative-sort-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -331,6 +332,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
