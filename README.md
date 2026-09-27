@@ -160,6 +160,7 @@
 | [0205-isomorphic-strings](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1844-replace-all-digits-with-characters](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -258,6 +259,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,4 +454,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
