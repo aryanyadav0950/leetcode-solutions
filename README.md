@@ -130,6 +130,7 @@
 | [0168-excel-sheet-column-title](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0441-arranging-coins](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
