@@ -161,6 +161,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -266,6 +267,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -482,5 +484,6 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
