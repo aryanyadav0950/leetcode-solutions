@@ -237,12 +237,14 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -406,11 +408,13 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
