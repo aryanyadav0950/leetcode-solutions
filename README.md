@@ -113,6 +113,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
@@ -169,6 +170,7 @@
 | [0205-isomorphic-strings](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1844-replace-all-digits-with-characters](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
@@ -188,6 +190,7 @@
 | [0392-is-subsequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0650-2-keys-keyboard/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -272,6 +275,7 @@
 | [0020-valid-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -489,5 +493,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
