@@ -244,6 +244,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -278,6 +279,7 @@
 | [0020-valid-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -418,12 +420,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
