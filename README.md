@@ -513,4 +513,8 @@
 | [1021-remove-outermost-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
