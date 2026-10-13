@@ -49,6 +49,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
@@ -357,6 +358,7 @@
 | [0258-add-digits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
