@@ -187,6 +187,7 @@
 | [0856-score-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1844-replace-all-digits-with-characters](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
