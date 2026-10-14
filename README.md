@@ -69,6 +69,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -263,6 +264,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3467-transform-array-by-parity](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -468,6 +470,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
