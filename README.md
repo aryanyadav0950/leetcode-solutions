@@ -170,6 +170,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
