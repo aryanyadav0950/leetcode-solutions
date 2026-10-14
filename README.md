@@ -104,6 +104,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -213,6 +214,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +475,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
