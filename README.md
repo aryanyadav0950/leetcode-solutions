@@ -168,6 +168,7 @@
 | [1510-stone-game-iv](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
@@ -395,6 +396,7 @@
 | [0258-add-digits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
