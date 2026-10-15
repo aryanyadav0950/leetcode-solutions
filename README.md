@@ -165,6 +165,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2235-add-two-integers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2469-convert-the-temperature](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
