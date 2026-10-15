@@ -66,6 +66,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -125,6 +126,7 @@
 | [0392-is-subsequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -272,6 +274,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -452,6 +455,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
