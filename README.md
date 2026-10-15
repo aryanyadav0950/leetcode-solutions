@@ -51,6 +51,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1816-truncate-sentence](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -211,6 +212,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1678-goal-parser-interpretation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1816-truncate-sentence](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1927-sum-game](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
