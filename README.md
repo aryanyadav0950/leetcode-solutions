@@ -69,6 +69,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -104,6 +105,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -426,6 +428,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -569,4 +572,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
