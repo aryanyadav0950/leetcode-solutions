@@ -81,6 +81,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3668-restore-finishing-order](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -112,6 +113,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3668-restore-finishing-order](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -284,6 +286,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 | Problem Name | Difficulty |
