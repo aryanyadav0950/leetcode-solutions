@@ -41,6 +41,7 @@
 | [1122-relative-sort-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -298,12 +299,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -393,6 +396,7 @@
 | [0566-reshape-the-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -582,4 +586,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
