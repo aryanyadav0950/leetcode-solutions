@@ -184,6 +184,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2652-sum-multiples](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2652-sum-multiples/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
