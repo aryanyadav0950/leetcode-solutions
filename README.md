@@ -201,6 +201,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3945-digit-frequency-score/) | Easy |
+| [3959-check-good-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3959-check-good-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +418,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3959-check-good-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3959-check-good-integer/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
