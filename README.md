@@ -37,6 +37,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1051-height-checker](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1122-relative-sort-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -283,6 +284,7 @@
 | [0242-valid-anagram](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -324,6 +326,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1122-relative-sort-array/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -543,6 +546,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1122-relative-sort-array/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
