@@ -61,6 +61,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -105,6 +106,7 @@
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
