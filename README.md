@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -101,6 +102,7 @@
 | [0205-isomorphic-strings](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1122-relative-sort-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -166,6 +168,7 @@
 | [0189-rotate-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0441-arranging-coins](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -284,6 +287,7 @@
 | [0088-merge-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0455-assign-cookies](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
@@ -457,6 +461,7 @@
 | [0078-subsets](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -468,6 +473,7 @@
 | [0069-sqrtx](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
