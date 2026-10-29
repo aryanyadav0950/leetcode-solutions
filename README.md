@@ -377,6 +377,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
