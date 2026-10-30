@@ -54,6 +54,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -108,6 +109,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -525,6 +527,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
