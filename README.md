@@ -211,6 +211,7 @@
 | [3870-count-commas-in-range](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3894-traffic-signal-color](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3894-traffic-signal-color/) | Easy |
 | [3945-digit-frequency-score](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3945-digit-frequency-score/) | Easy |
 | [3959-check-good-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3959-check-good-integer/) | Easy |
 ## String
@@ -247,6 +248,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3894-traffic-signal-color](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3894-traffic-signal-color/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +437,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3894-traffic-signal-color](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3959-check-good-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3959-check-good-integer/) | Easy |
 ## Nim Game
