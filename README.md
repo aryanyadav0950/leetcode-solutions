@@ -95,6 +95,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -216,6 +217,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
