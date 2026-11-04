@@ -399,6 +399,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -407,6 +408,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
