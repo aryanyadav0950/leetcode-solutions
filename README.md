@@ -60,6 +60,7 @@
 | [1672-richest-customer-wealth](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -647,4 +648,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 <!---LeetCode Topics End-->
