@@ -46,6 +46,7 @@
 | [1140-stone-game-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -339,6 +340,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -346,6 +348,7 @@
 | [0100-same-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -443,6 +446,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -550,6 +554,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -644,6 +649,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
