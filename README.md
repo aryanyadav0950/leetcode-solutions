@@ -96,6 +96,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3668-restore-finishing-order](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3668-restore-finishing-order/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -285,6 +286,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
