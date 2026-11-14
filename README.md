@@ -1,6 +1,6 @@
 # leetcode-solutions. 
 <!---LeetCode Topics Start-->
-# LeetCode Topics 
+# LeetCode Topics
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +89,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -440,6 +441,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -492,6 +494,7 @@
 | [2747-count-zero-request-servers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
