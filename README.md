@@ -266,6 +266,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
