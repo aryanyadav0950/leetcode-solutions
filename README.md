@@ -94,6 +94,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -228,6 +229,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3516-find-closest-person/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -392,6 +394,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +426,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -511,6 +515,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanyadav0950/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aryanyadav0950/leetcode-solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
